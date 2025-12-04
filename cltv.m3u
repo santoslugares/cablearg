@@ -60,6 +60,10 @@ http://200.121.48.17:8000/play/a14m/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales" , METRO
 http://200.80.230.123:8000/play/a02g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Lji1zr0JA8ZI6GJ7nlLYu/788251073b3555e83864f19a9a0b66f0/28_MIXTV.png?fm=webp&q=80" group-title="Nacionales" , Mix TV
+
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2cxt3hOO4yflyPkLMD1564/7a815a1bd70c3001b1ef24010af5d6bd/canal-ciudad-magazine.png?fm=webp&q=80" group-title="Nacionales" , Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
