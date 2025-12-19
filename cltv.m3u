@@ -16,7 +16,7 @@ https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 http://200.80.230.123:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Dyn70sIkPArFytOILfyOw/b197e03db0d6bdd5868966f23bd0a88d/03_Telefe.png?fm=webp&q=80" group-title="Nacionales" , TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/312yMcrIGiQtdig5oClpwN/76083b34ced746c828b959983b69e979/04_TVPublica.png?fm=webp&q=80" group-title="Nacionales" , TV Publica
 http://200.80.230.123:8000/play/a0a8/index.m3u8
